@@ -2,20 +2,19 @@
 
 #EXT-X-INDEPENDENT-SEGMENTS
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-3211583617",NAME="TV Ton",LANGUAGE="deu",DEFAULT=YES,URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/4/4.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-3211583617",NAME="Originalton",LANGUAGE="mul",URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/5/5.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-3211583617",NAME="Audio-Deskription",LANGUAGE="deu",URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/6/6.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-3211583617",NAME="TV Ton",LANGUAGE="deu",DEFAULT=YES,URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/cec412c32ff8d885c77b933fc1ccb6fc/4/4.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-3211583617",NAME="Klare Sprache / Originalton",LANGUAGE="mul",URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/cec412c32ff8d885c77b933fc1ccb6fc/5/5.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-3211583617",NAME="Audio-Deskription",LANGUAGE="deu",URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/cec412c32ff8d885c77b933fc1ccb6fc/6/6.m3u8"
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1566965899",NAME="TV Ton",LANGUAGE="deu",DEFAULT=YES,URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/4/4.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1566965899",NAME="Originalton",LANGUAGE="mul",URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/5/5.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1566965899",NAME="Audio-Deskription",LANGUAGE="deu",URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/6/6.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1566965899",NAME="TV Ton",LANGUAGE="deu",DEFAULT=YES,URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/cec412c32ff8d885c77b933fc1ccb6fc/4/4.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1566965899",NAME="Klare Sprache / Originalton",LANGUAGE="mul",URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/cec412c32ff8d885c77b933fc1ccb6fc/5/5.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1566965899",NAME="Audio-Deskription",LANGUAGE="deu",URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/cec412c32ff8d885c77b933fc1ccb6fc/6/6.m3u8"
 
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="T1-3211583617",NAME="Untertitel deutsch",CODECS="wvtt",LANGUAGE="deu",DEFAULT=YES,AUTOSELECT=YES,URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/7/7.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="T1-3211583617",NAME="Untertitel deutsch",CODECS="wvtt",LANGUAGE="deu",DEFAULT=YES,AUTOSELECT=YES,URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/cec412c32ff8d885c77b933fc1ccb6fc/7/7.m3u8"
 
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="T1-1566965899",NAME="Untertitel deutsch",CODECS="wvtt",LANGUAGE="deu",DEFAULT=YES,AUTOSELECT=YES,URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/7/7.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="T1-1566965899",NAME="Untertitel deutsch",CODECS="wvtt",LANGUAGE="deu",DEFAULT=YES,AUTOSELECT=YES,URI="https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/cec412c32ff8d885c77b933fc1ccb6fc/7/7.m3u8"
 
 #EXT-X-STREAM-INF:CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=2257198,AVERAGE-BANDWIDTH=1807198,AUDIO="A1.1+A2.1+A3.1-3211583617",SUBTITLES="T1-3211583617",FRAME-RATE=25.000,RESOLUTION=960x540
-https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/3/3.m3u8
+https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501/dach/cec412c32ff8d885c77b933fc1ccb6fc/3/3.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=2257198,AVERAGE-BANDWIDTH=1807198,AUDIO="A1.1+A2.1+A3.1-1566965899",SUBTITLES="T1-1566965899",FRAME-RATE=25.000,RESOLUTION=960x540
-https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/e1bf45cb4d8ef71239f7fc31ac44cbc6/3/3.m3u8
-
+https://hasan.tvcag.live/zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/cec412c32ff8d885c77b933fc1ccb6fc/3/3.m3u8

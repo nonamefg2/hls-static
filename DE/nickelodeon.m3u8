@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="German",NAME="ger",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="ger",URI="https://hasan.tvcag.live/0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/6.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=5517240,AVERAGE-BANDWIDTH=5517240,CODECS="avc1.640028,mp4a.40.5",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="German"
+https://hasan.tvcag.live/0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_5000.m3u8
