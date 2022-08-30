@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="program_audio",LANGUAGE="de",NAME="Deutsch",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=6520800,AVERAGE-BANDWIDTH=5640800,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,AUDIO="program_audio",SUBTITLES="subs"
+https://hasan.tvcag.live/rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-1080p-5128.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6520800,AVERAGE-BANDWIDTH=5640800,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,AUDIO="program_audio",SUBTITLES="subs"
+https://hasan.tvcag.live/rbb-hls-berlin.akamaized.net/hls/live/2017824-b/rbb_berlin/master-1080p-5128.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="klare sprache",NAME="Klare Sprache",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio",URI="https://hasan.tvcag.live/rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-ks.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="klare sprache",NAME="Klare Sprache",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio",URI="https://hasan.tvcag.live/rbb-hls-berlin.akamaized.net/hls/live/2017824-b/rbb_berlin/master-ks.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="ad",NAME="Audiodeskription",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio",URI="https://hasan.tvcag.live/rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-ad.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="ad",NAME="Audiodeskription",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio",URI="https://hasan.tvcag.live/rbb-hls-berlin.akamaized.net/hls/live/2017824-b/rbb_berlin/master-ad.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Deutsch",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="de",GROUP-ID="subs",URI="https://hasan.tvcag.live/rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-subs.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Deutsch",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="de",GROUP-ID="subs",URI="https://hasan.tvcag.live/rbb-hls-berlin.akamaized.net/hls/live/2017824-b/rbb_berlin/master-subs.m3u8"
