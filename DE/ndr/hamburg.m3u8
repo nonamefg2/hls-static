@@ -6,3 +6,4 @@ https://tunzilla.com/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master_720.m3u8
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Deutsch",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="de",GROUP-ID="subs",URI="https://tunzilla.com/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master_cap.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="deu",NAME="Deutsch",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="program_audio",URI="https://tunzilla.com/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master_de.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="klare sprache",NAME="Klare Sprache",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="program_audio",URI="https://tunzilla.com/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master_klare_sprache.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="de",NAME="Audiodeskription",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio",URI="https://tunzilla.com/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master_ad.m3u8"

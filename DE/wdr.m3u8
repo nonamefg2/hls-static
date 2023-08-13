@@ -1,9 +1,15 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=6520800,AVERAGE-BANDWIDTH=5640800,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,SUBTITLES="subs"
-https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_5128.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=6520800,AVERAGE-BANDWIDTH=5640800,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,SUBTITLES="subs"
-https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509-b/wdr_msl4_fs247/master_5128.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6520800,AVERAGE-BANDWIDTH=5640800,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,AUDIO="program_audio",SUBTITLES="subs"
+https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-1080p-5000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6520800,AVERAGE-BANDWIDTH=5640800,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,AUDIO="program_audio-b",SUBTITLES="subs-b"
+https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509-b/wdr_msl4_fs247/master-1080p-5000.m3u8
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Untertitel",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="de",GROUP-ID="subs",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_subs.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Untertitel",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="de",GROUP-ID="subs",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509-b/wdr_msl4_fs247/master_subs.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Untertitel",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="de",GROUP-ID="subs-b",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509-b/wdr_msl4_fs247/master_subs.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="de",NAME="Deutsch",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="program_audio",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-audio1-128.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="de",NAME="Deutsch",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="program_audio-b",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509-b/wdr_msl4_fs247/master-audio1-128.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="klare sprache",NAME="Klare Sprache",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-audio2-128.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="klare sprache",NAME="Klare Sprache",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio-b",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509-b/wdr_msl4_fs247/master-audio2-128.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="ad",NAME="Audiodeskription",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-audio3-128.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="ad",NAME="Audiodeskription",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="program_audio-b",URI="https://tunzilla.com/wdrfs247.akamaized.net/hls/live/681509-b/wdr_msl4_fs247/master-audio3-128.m3u8"
